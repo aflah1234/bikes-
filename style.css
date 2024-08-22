@@ -1,0 +1,10 @@
+.thank-you-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    color: #555;
+}
+.checkmark-icon {
+    width: 80px;
+    height: 80px;
+}
